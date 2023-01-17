@@ -18,6 +18,8 @@ No injection as I plan for this to be cross-platform and I still want to use it 
     - [ ] Setup basic screen recording 
     - [ ] Setup basic OCR
     - [ ] Keyboard and mouse input simulation
+- [ ] Current Mouse position    
+- [ ] Normalize all coordinates to user resolution
 - [ ] Detection of BTD6 process and window
 - [ ] *Setup basic GUI (selecting gameplan)*
 
