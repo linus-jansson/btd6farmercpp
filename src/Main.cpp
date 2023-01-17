@@ -2,7 +2,15 @@
 #include <Utils.h>
 #include <User.h>
 
+void init() {
+    std::cout << "Initializing..." << std::endl;
+    std::cout << "Done!" << std::endl;
+}
+
 void loop() {
+    // Initialize program
+    init();
+
     std::cout << User::Monitor::getMonitorResolution().x << " " << User::Monitor::getMonitorResolution().y << std::endl;
     std::cin.get();
     while (true) {
@@ -18,12 +26,7 @@ void loop() {
 }
 
 int main() {
-    try {
-        std::cout << "hello world" << std::endl;
-        loop();
-        return 0;
-    }
-    catch {
-        return 1;
-    }
+    std::cout << "hello world" << std::endl;
+    loop();
+    return 0;
 }
