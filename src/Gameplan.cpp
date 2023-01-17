@@ -1,8 +1,7 @@
 #include <iostream>
 #include <Gameplan.h>
 
-void test() {
+namespace Gameplan {
 
-    std::cout << "Hello, World!2" << std::endl;
-    
+
 }

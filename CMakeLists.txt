@@ -15,4 +15,4 @@ file(GLOB all_SRCS
         "${PROJECT_SOURCE_DIR}/src/*.c"
         )
 
-add_executable(BTD6Farmercpp src/main.cpp ${all_SRCS})
+add_executable(BTD6Farmercpp src/Main.cpp ${all_SRCS})

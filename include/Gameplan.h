@@ -1,6 +1,15 @@
 #ifndef GAMEPLAN_H
 #define GAMEPLAN_H
 
-void test();
+namespace Gameplan
+{
+    class Gameplan 
+    {
+        public:
+            Gameplan();
+            ~Gameplan();
+            void run();
+    };
+}
 
 #endif
