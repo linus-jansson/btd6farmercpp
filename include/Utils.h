@@ -5,6 +5,6 @@
     struct Vect2 {
         int x;
         int y;
-    } ;
+    };
 
 #endif

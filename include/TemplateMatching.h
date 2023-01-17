@@ -1,4 +1,0 @@
-#ifndef TEMPLATEMATCHING_H
-#define TEMPLATEMATCHING_H
-
-#endif

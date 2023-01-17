@@ -1,13 +1,15 @@
 #ifndef GAMEPLAN_H
 #define GAMEPLAN_H
 
-namespace Gameplan
+namespace Game
 {
-    class Gameplan 
+    class GamePlan {};
+
+    class Game
     {
         public:
-            Gameplan();
-            ~Gameplan();
+            Game();
+            ~Game();
             void run();
     };
 }
