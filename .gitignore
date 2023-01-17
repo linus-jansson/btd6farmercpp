@@ -32,6 +32,8 @@
 *.app
 
 build/*
+out/*
+.vs/*
 
 # Ignore Mac specific files
 .DS_Store
