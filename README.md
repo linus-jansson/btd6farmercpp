@@ -13,6 +13,7 @@ No injection as I plan for this to be cross-platform and I still want to use it 
 - [ ] Setup classes
     - [ ] Reading gameplans
         - [ ] Same layout as current BTD6Farmer
+    - [ ] Logging
     - [ ] Setup basic image processing ()
     - [ ] Setup basic screen recording 
     - [ ] Setup basic OCR
