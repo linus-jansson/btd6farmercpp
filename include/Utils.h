@@ -7,4 +7,14 @@
         int y;
     };
 
+
+namespace KEYBOARD {
+    typedef int KEY_A = 0x41;
+
+
+    // Virtual keycodes
+    
+}
+    
+
 #endif

@@ -14,7 +14,15 @@ namespace User
 };
 
 // Keyboard Class
-namespace User {};
+namespace User {
+    void Keyboard::sendKey(int key) {
+        // INPUT input;
+        // iput.type = INPUT_KEYBOARD;
+
+        // SendInput(1, &input, sizeof(INPUT));
+    }
+
+};
 
 // Monitor Class
 namespace User

@@ -5,6 +5,7 @@
 void init() {
     std::cout << "Initializing..." << std::endl;
     std::cout << "Done!" << std::endl;
+    std::cout << KEY_A << std::endl;
 }
 
 void loop() {

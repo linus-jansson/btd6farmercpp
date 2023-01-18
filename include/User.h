@@ -21,9 +21,6 @@ namespace User {
     {
         public:
             void sendKey(char key);
-        private:
-            void translatekey(char key);
-            void sendKey(int key);
     };
 
     class Monitor 
